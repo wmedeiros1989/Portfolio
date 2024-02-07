@@ -1,0 +1,8 @@
+C:\Users\LCD\source\repos\StringEquality\bin\Debug\StringEquality.exe.config
+C:\Users\LCD\source\repos\StringEquality\bin\Debug\StringEquality.exe
+C:\Users\LCD\source\repos\StringEquality\bin\Debug\StringEquality.pdb
+C:\Users\LCD\source\repos\StringEquality\obj\Debug\StringEquality.csproj.AssemblyReference.cache
+C:\Users\LCD\source\repos\StringEquality\obj\Debug\StringEquality.csproj.SuggestedBindingRedirects.cache
+C:\Users\LCD\source\repos\StringEquality\obj\Debug\StringEquality.csproj.CoreCompileInputs.cache
+C:\Users\LCD\source\repos\StringEquality\obj\Debug\StringEquality.exe
+C:\Users\LCD\source\repos\StringEquality\obj\Debug\StringEquality.pdb
