@@ -1,0 +1,8 @@
+C:\Users\LCD\source\repos\UserInput\bin\Debug\UserInput.exe.config
+C:\Users\LCD\source\repos\UserInput\bin\Debug\UserInput.exe
+C:\Users\LCD\source\repos\UserInput\bin\Debug\UserInput.pdb
+C:\Users\LCD\source\repos\UserInput\obj\Debug\UserInput.csproj.AssemblyReference.cache
+C:\Users\LCD\source\repos\UserInput\obj\Debug\UserInput.csproj.SuggestedBindingRedirects.cache
+C:\Users\LCD\source\repos\UserInput\obj\Debug\UserInput.csproj.CoreCompileInputs.cache
+C:\Users\LCD\source\repos\UserInput\obj\Debug\UserInput.exe
+C:\Users\LCD\source\repos\UserInput\obj\Debug\UserInput.pdb

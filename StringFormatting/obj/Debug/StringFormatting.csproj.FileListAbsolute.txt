@@ -1,0 +1,8 @@
+C:\Users\LCD\source\repos\StringFormatting\bin\Debug\StringFormatting.exe.config
+C:\Users\LCD\source\repos\StringFormatting\bin\Debug\StringFormatting.exe
+C:\Users\LCD\source\repos\StringFormatting\bin\Debug\StringFormatting.pdb
+C:\Users\LCD\source\repos\StringFormatting\obj\Debug\StringFormatting.csproj.AssemblyReference.cache
+C:\Users\LCD\source\repos\StringFormatting\obj\Debug\StringFormatting.csproj.SuggestedBindingRedirects.cache
+C:\Users\LCD\source\repos\StringFormatting\obj\Debug\StringFormatting.csproj.CoreCompileInputs.cache
+C:\Users\LCD\source\repos\StringFormatting\obj\Debug\StringFormatting.exe
+C:\Users\LCD\source\repos\StringFormatting\obj\Debug\StringFormatting.pdb

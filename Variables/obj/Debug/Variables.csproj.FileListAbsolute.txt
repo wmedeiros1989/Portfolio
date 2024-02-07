@@ -1,0 +1,8 @@
+C:\Users\LCD\source\repos\Variables\bin\Debug\Variables.exe.config
+C:\Users\LCD\source\repos\Variables\bin\Debug\Variables.exe
+C:\Users\LCD\source\repos\Variables\bin\Debug\Variables.pdb
+C:\Users\LCD\source\repos\Variables\obj\Debug\Variables.csproj.AssemblyReference.cache
+C:\Users\LCD\source\repos\Variables\obj\Debug\Variables.csproj.SuggestedBindingRedirects.cache
+C:\Users\LCD\source\repos\Variables\obj\Debug\Variables.csproj.CoreCompileInputs.cache
+C:\Users\LCD\source\repos\Variables\obj\Debug\Variables.exe
+C:\Users\LCD\source\repos\Variables\obj\Debug\Variables.pdb
