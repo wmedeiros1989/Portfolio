@@ -1,0 +1,8 @@
+C:\Users\LCD\source\repos\CarGame\bin\Debug\CarGame.exe.config
+C:\Users\LCD\source\repos\CarGame\bin\Debug\CarGame.exe
+C:\Users\LCD\source\repos\CarGame\bin\Debug\CarGame.pdb
+C:\Users\LCD\source\repos\CarGame\obj\Debug\CarGame.csproj.AssemblyReference.cache
+C:\Users\LCD\source\repos\CarGame\obj\Debug\CarGame.csproj.SuggestedBindingRedirects.cache
+C:\Users\LCD\source\repos\CarGame\obj\Debug\CarGame.csproj.CoreCompileInputs.cache
+C:\Users\LCD\source\repos\CarGame\obj\Debug\CarGame.exe
+C:\Users\LCD\source\repos\CarGame\obj\Debug\CarGame.pdb

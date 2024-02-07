@@ -1,0 +1,8 @@
+C:\Users\LCD\source\repos\BoolExp\bin\Debug\BoolExp.exe.config
+C:\Users\LCD\source\repos\BoolExp\bin\Debug\BoolExp.exe
+C:\Users\LCD\source\repos\BoolExp\bin\Debug\BoolExp.pdb
+C:\Users\LCD\source\repos\BoolExp\obj\Debug\BoolExp.csproj.AssemblyReference.cache
+C:\Users\LCD\source\repos\BoolExp\obj\Debug\BoolExp.csproj.SuggestedBindingRedirects.cache
+C:\Users\LCD\source\repos\BoolExp\obj\Debug\BoolExp.csproj.CoreCompileInputs.cache
+C:\Users\LCD\source\repos\BoolExp\obj\Debug\BoolExp.exe
+C:\Users\LCD\source\repos\BoolExp\obj\Debug\BoolExp.pdb

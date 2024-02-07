@@ -1,0 +1,8 @@
+C:\Users\LCD\source\repos\BuiltinTypes\bin\Debug\BuiltinTypes.exe.config
+C:\Users\LCD\source\repos\BuiltinTypes\bin\Debug\BuiltinTypes.exe
+C:\Users\LCD\source\repos\BuiltinTypes\bin\Debug\BuiltinTypes.pdb
+C:\Users\LCD\source\repos\BuiltinTypes\obj\Debug\BuiltinTypes.csproj.AssemblyReference.cache
+C:\Users\LCD\source\repos\BuiltinTypes\obj\Debug\BuiltinTypes.csproj.SuggestedBindingRedirects.cache
+C:\Users\LCD\source\repos\BuiltinTypes\obj\Debug\BuiltinTypes.csproj.CoreCompileInputs.cache
+C:\Users\LCD\source\repos\BuiltinTypes\obj\Debug\BuiltinTypes.exe
+C:\Users\LCD\source\repos\BuiltinTypes\obj\Debug\BuiltinTypes.pdb
