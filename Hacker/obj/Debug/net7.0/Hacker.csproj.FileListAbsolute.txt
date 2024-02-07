@@ -1,0 +1,15 @@
+C:\Users\LCD\source\repos\Hacker\bin\Debug\net7.0\Hacker.exe
+C:\Users\LCD\source\repos\Hacker\bin\Debug\net7.0\Hacker.deps.json
+C:\Users\LCD\source\repos\Hacker\bin\Debug\net7.0\Hacker.runtimeconfig.json
+C:\Users\LCD\source\repos\Hacker\bin\Debug\net7.0\Hacker.dll
+C:\Users\LCD\source\repos\Hacker\bin\Debug\net7.0\Hacker.pdb
+C:\Users\LCD\source\repos\Hacker\obj\Debug\net7.0\Hacker.csproj.AssemblyReference.cache
+C:\Users\LCD\source\repos\Hacker\obj\Debug\net7.0\Hacker.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\LCD\source\repos\Hacker\obj\Debug\net7.0\Hacker.AssemblyInfoInputs.cache
+C:\Users\LCD\source\repos\Hacker\obj\Debug\net7.0\Hacker.AssemblyInfo.cs
+C:\Users\LCD\source\repos\Hacker\obj\Debug\net7.0\Hacker.csproj.CoreCompileInputs.cache
+C:\Users\LCD\source\repos\Hacker\obj\Debug\net7.0\Hacker.dll
+C:\Users\LCD\source\repos\Hacker\obj\Debug\net7.0\refint\Hacker.dll
+C:\Users\LCD\source\repos\Hacker\obj\Debug\net7.0\Hacker.pdb
+C:\Users\LCD\source\repos\Hacker\obj\Debug\net7.0\Hacker.genruntimeconfig.cache
+C:\Users\LCD\source\repos\Hacker\obj\Debug\net7.0\ref\Hacker.dll

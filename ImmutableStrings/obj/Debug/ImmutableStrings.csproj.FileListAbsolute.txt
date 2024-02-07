@@ -1,0 +1,8 @@
+C:\Users\LCD\source\repos\ImmutableStrings\bin\Debug\ImmutableStrings.exe.config
+C:\Users\LCD\source\repos\ImmutableStrings\bin\Debug\ImmutableStrings.exe
+C:\Users\LCD\source\repos\ImmutableStrings\bin\Debug\ImmutableStrings.pdb
+C:\Users\LCD\source\repos\ImmutableStrings\obj\Debug\ImmutableStrings.csproj.AssemblyReference.cache
+C:\Users\LCD\source\repos\ImmutableStrings\obj\Debug\ImmutableStrings.csproj.SuggestedBindingRedirects.cache
+C:\Users\LCD\source\repos\ImmutableStrings\obj\Debug\ImmutableStrings.csproj.CoreCompileInputs.cache
+C:\Users\LCD\source\repos\ImmutableStrings\obj\Debug\ImmutableStrings.exe
+C:\Users\LCD\source\repos\ImmutableStrings\obj\Debug\ImmutableStrings.pdb
