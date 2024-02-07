@@ -1,0 +1,8 @@
+C:\Users\LCD\source\repos\ListSearch\bin\Debug\ListSearch.exe.config
+C:\Users\LCD\source\repos\ListSearch\bin\Debug\ListSearch.exe
+C:\Users\LCD\source\repos\ListSearch\bin\Debug\ListSearch.pdb
+C:\Users\LCD\source\repos\ListSearch\obj\Debug\ListSearch.csproj.AssemblyReference.cache
+C:\Users\LCD\source\repos\ListSearch\obj\Debug\ListSearch.csproj.SuggestedBindingRedirects.cache
+C:\Users\LCD\source\repos\ListSearch\obj\Debug\ListSearch.csproj.CoreCompileInputs.cache
+C:\Users\LCD\source\repos\ListSearch\obj\Debug\ListSearch.exe
+C:\Users\LCD\source\repos\ListSearch\obj\Debug\ListSearch.pdb
